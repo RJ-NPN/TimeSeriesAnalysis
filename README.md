@@ -12,4 +12,6 @@ Since in production their is presence of trend and sesonality, lets us check how
 
 Outliers in ARIMA models disrupt linear relationships and Gaussian error assumptions, leading to biased estimates and inaccurate forecasts. They distort historical patterns, complicating model interpretation and reducing predictive reliability. 
 Refer: ARIMA_Isues_With_Outliers_Or_Spike_Data
-Dataset: Walmart Recruiting - Store Sales Forecasting - Source: Kaggle
+
+Dataset: Walmart Recruiting - Store Sales Forecasting 
+Source: Kaggle
